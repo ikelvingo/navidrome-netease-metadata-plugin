@@ -1,0 +1,17 @@
+{
+  "name": "NetEase Cloud Music Metadata Agent",
+  "author": "ikelvingo",
+  "version": "1.0.0",
+  "description": "Fetches artist and album metadata (biography, images, top songs, album info) from NetEase Cloud Music API",
+  "permissions": {
+    "http": {
+      "reason": "For making HTTP requests to NetEase Cloud Music API endpoints",
+      "requiredHosts": [
+        "apis.netstart.cn",
+        "ncm.zhenxin.me",
+        "ncmapi.btwoa.com",
+        "zm.wwoyun.cn"
+      ]
+    }
+  }
+}
