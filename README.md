@@ -4,6 +4,10 @@
 
 **要求：Navidrome 0.61.0 或更新版本**
 
+## 截图
+
+![Screenshot](screenshot.png)
+
 ## 功能
 
 - 获取艺术家简介（代表作品、人物履历等完整介绍）
